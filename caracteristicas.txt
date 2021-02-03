@@ -1,0 +1,16 @@
+Módulos de cálculo de la función
+x**3 - 6*x**2 - 15*x + 40
+son:
+
+El punto máximo es:-1
+El punto minimo es:5
+Las raices son:[ 7.30388963 -3.08125872  1.77736909]
+La función original es:x**3 - 6*x**2 - 15*x + 40
+Primer derivada es:3*x**2 - 12*x - 15
+Segunda derivada es:6*(x - 2)
+('La función en el intervalo de: -(infinito) a', -1, 'es :', 'creciente')
+('La función en el intervalo de:', -1, 'a', 5, 'es :', 'decreciente')
+('La función en el intervalo de:', 5, 'a + (infinito) es :', 'creciente')
+('La función en el intervalo de:', 2, 'a (infinito) es :', 'concava')
+('La funcion en el intervalo de:-(infinito) a', 2, 'es :', 'convexa')
+('El punto de inflexión es:', [2])
